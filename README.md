@@ -53,7 +53,7 @@ netflix-data-analysis/
 
 ## 🚀 How to Run
 1. Clone this repo:
-   git clone https://github.com/your-username/netflix-data-analysis.git
+   git clone https://github.com/Pawan-Ghode/netflix-data-analysis.git
 2. Install dependencies:
    pip install pandas matplotlib seaborn
 3. Open `Netflix_EDA.ipynb` in Jupyter or Google Colab.
